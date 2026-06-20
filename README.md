@@ -1,4 +1,4 @@
-# 📱 NovaCell Support Chatbot — Multi-Source RAG Assistant
+# 📱Support Chatbot — Multi-Source RAG Assistant
 
 A grounded, retrieval-augmented (RAG) customer-care assistant for the fictional telecom
 operator **NovaCell**. It answers Tier-1 support questions in plain language using *only*
